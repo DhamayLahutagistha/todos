@@ -35,9 +35,4 @@ API ini memiliki fitur Create, Read, Update, dan Delete data todo,
 ### 📌 Contoh: DELETE `/api/items/:id`
 ![DELETE Items](./src/ss/Delete.png)
 
----
 
-## 5. Cara Menjalankan
-1. Clone repository ini  
-   ```bash
-   git clone https://github.com/[username]/[nama-repo].git
