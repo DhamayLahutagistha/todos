@@ -8,14 +8,6 @@
 API sederhana untuk mengelola todo list menggunakan NetJS.
 API ini memiliki fitur Create, Read, Update, dan Delete data todo, 
 
-## Identitas
-- Nama: Marsya Carissa Atmono
-- Kelas: TI-3A
-
-## Description
-API sederhana untuk mengelola todo list menggunakan NestJS.  
-API ini memiliki fitur Create, Read, Update, dan Delete data todo.
-
 ## Daftar Endpoint
 
 | Method | URL                      | Body (JSON)                                   | Deskripsi                        |
